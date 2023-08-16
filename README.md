@@ -19,4 +19,6 @@
 * Cantidad total de Docentes.
 * Cantidad total de Prestamos vencidos.
 
+### Se trata de un trabajo integrador de la asignatura Programación Orientada a Objetos. El mismo se desarrolló bajo el Modelo Vista Controlador (MVC) en el IDE Netbeans para realizar la interfáz gráfica para luego traspasar por completo al IDE BlueJ por requerimientos de la cátedra.
+
 ### Software Open Source
